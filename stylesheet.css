@@ -1,0 +1,19 @@
+.copied {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.remove-button {
+    margin-left: 5%;
+    padding: 0px 2px;
+}
+
+.input {
+    margin-bottom: 6%;
+    display: flex;
+}
+
+.enter-button {
+    margin-left: 5px;
+}
